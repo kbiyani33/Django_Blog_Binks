@@ -13,11 +13,11 @@ python manage.py runserver # starts the server on localhost:8000
 ## Features completed
 1. Login
 2. List all posts -> authenticated
-3. Delete post
-4. Edit Post
-5. Comment on a post
-6. Upvote/like a post
-7. Search for a post
+3. Delete post -> authenticated
+4. Edit Post -> authenticated
+5. Comment on a post -> authenticated
+6. Upvote/like a post -> authenticated
+7. Search for a post -> authenticated
 
 ## Features not completed due to delay still to be done
 1. Replies to a query
